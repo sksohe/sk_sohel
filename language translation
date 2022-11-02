@@ -1,4 +1,4 @@
 from translate import Translator
-translator= Translator(from_lang="english",to_lang="french")
+translator= Translator(from_lang="french",to_lang="english")
 translation = translator.translate("Guten Morgen")
 print translation
