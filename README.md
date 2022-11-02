@@ -1,1 +1,1 @@
-repositopry of sohel mohammad shaik
+repository of sohel mohammad shaik
